@@ -1,8 +1,7 @@
 # Hello 👋 , my name is Alexander
 
 # 💫 About Me:
-🔭 I’m currently working on Data Manager <br>🌱 I’m currently learning Javascript & TypeScript<br><br>
-I am an aspiring full-stack developer with beginner-level experience. I have some knowledge in various areas of computer science, but I am not yet advanced in programming languages as I am continuously learning them. I hope that anyone who visits my GitHub profile finds some value in one of my repositories. If you've made it this far, rest in peace.
+I am an aspiring FullStack developer. I have knowledge in various areas of computer science, but I am not yet advanced in programming languages as I am continuously learning them. I hope that anyone who visits my GitHub profile finds some value in one of my repositories. If you\'ve made it this far, I warmly invite you to explore my projects and solutions that might be useful.
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/r3per)
 
